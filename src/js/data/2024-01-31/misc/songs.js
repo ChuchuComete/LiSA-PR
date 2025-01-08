@@ -341,8 +341,8 @@ export const songs = [
     }
 },{
     name: "35.0. Spider-Man: Across the Spider-Verse - REALiZE by LiSA",
-    videoId : "https://youtu.be/-A0ICz6rVvU?si=ZL80VT-DojmQHRHJ",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId : "-A0ICz6rVvU?si=ZL80VT-DojmQHRHJ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts:{
         singer:[
         "OP"
