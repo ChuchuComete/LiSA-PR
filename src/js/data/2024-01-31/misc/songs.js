@@ -32,7 +32,7 @@ export const songs = [
 },
 	{
     name: "4.0. Fate/Zero - oath sign by LiSA",
-    videoId : "https://nawdist.animemusicquiz.com//qgy2zu.webm",
+    videoId : "https://naedist.animemusicquiz.com/2356k9.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
