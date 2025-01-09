@@ -32,7 +32,7 @@ export const songs = [
 },
 	{
     name: "4.0. Fate/Zero - oath sign by LiSA",
-    videoId : "https://naedist.animemusicquiz.com/2356k9.webm",
+    videoId : "https://nawdist.animemusicquiz.com//qgy2zu.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
         singer:[
@@ -291,17 +291,7 @@ export const songs = [
     }
 },
 	{
-    name: "30.0. Demon Slayer: Kimetsu no Yaiba Mugen Train Arc - Homura by LiSA",
-    videoId : "https://nawdist.animemusicquiz.com/w0f6i5.webm",
-    videoSource: VIDEOSOURCE.CATBOX,
-    opts:{
-        singer:[
-        "OP"
-        ]
-    }
-},
-	{
-    name: "31.0. The Irregular at Magic High School Season 3 - Shouted Serenade by LiSA",
+    name: "30.0. The Irregular at Magic High School Season 3 - Shouted Serenade by LiSA",
     videoId : "https://nawdist.animemusicquiz.com/t1q2yp.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -311,7 +301,7 @@ export const songs = [
     }
 },
 	{
-    name: "32.0. NieR:Automata Ver1.1a - Black Box by LiSA",
+    name: "31.0. NieR:Automata Ver1.1a - Black Box by LiSA",
     videoId : "https://nawdist.animemusicquiz.com/mrie4l.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -321,7 +311,7 @@ export const songs = [
     }
 },
 	{
-    name: "33.0. Solo Leveling Season 2: Arise from the Shadow - ReawakeR by LiSA feat. Felix of Stray Kids",
+    name: "32.0. Solo Leveling Season 2: Arise from the Shadow - ReawakeR by LiSA feat. Felix of Stray Kids",
     videoId : "https://nawdist.animemusicquiz.com/zbxil2.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -331,7 +321,7 @@ export const songs = [
     }
 },
 	{
-    name: "34.0. Shangri-La Frontier - QUEEN by LiSA",
+    name: "33.0. Shangri-La Frontier - QUEEN by LiSA",
     videoId : "https://nawdist.animemusicquiz.com/973phv.webm",
     videoSource: VIDEOSOURCE.CATBOX,
     opts:{
@@ -339,9 +329,19 @@ export const songs = [
         "OP"
         ]
     }
-},{
-    name: "35.0. Spider-Man: Across the Spider-Verse - REALiZE by LiSA",
+},
+	{
+    name: "34.0. Spider-Man: Across the Spider-Verse - REALiZE by LiSA",
     videoId : "-A0ICz6rVvU?si=ZL80VT-DojmQHRHJ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
+    opts:{
+        singer:[
+        "OP"
+        ]
+    }
+},{
+    name: "35.0. Neko ga Kureta Marui Shiawase - Hello Good Day by LiSA",
+    videoId : "MYRkBwogrqc?si=bXVkFTsS1y-eiz68",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts:{
         singer:[
